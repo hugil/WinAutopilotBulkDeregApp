@@ -122,10 +122,11 @@
             <mxPoint x="289.5" y="183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M4I9pePaIoWxUZszSjGP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;" edge="1" parent="1" source="M4I9pePaIoWxUZszSjGP-28" target="M4I9pePaIoWxUZszSjGP-40">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="M4I9pePaIoWxUZszSjGP-39" value="HTTP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;labelBackgroundColor=none;fontColor=#999999;" edge="1" parent="1" source="M4I9pePaIoWxUZszSjGP-28" target="M4I9pePaIoWxUZszSjGP-40">
+          <mxGeometry x="0.0115" y="15" relative="1" as="geometry">
             <mxPoint x="1150" y="85.58" as="sourcePoint" />
             <mxPoint x="1190" y="86" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M4I9pePaIoWxUZszSjGP-40" value="Microsoft Graph API" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.drupal.org/files/project-images/Graph%20API%20logo.png;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
@@ -156,11 +157,11 @@
         </mxCell>
         <UserObject label="&lt;font face=&quot;Roboto&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; style=&quot;font-size: 27px;&quot;&gt;HUGIL.DEV&lt;/font&gt;" link="https://hugil.dev" linkTarget="_blank" id="M4I9pePaIoWxUZszSjGP-50">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-            <mxGeometry x="26.57" y="-80" width="170" height="40" as="geometry" />
+            <mxGeometry x="40" y="-140" width="170" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="M4I9pePaIoWxUZszSjGP-52" value="&lt;font face=&quot;Roboto&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto&quot; style=&quot;font-weight: normal;&quot;&gt;Author: Hugo Gillberg | Date: 2024-11-02&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="36.57" y="-40" width="233.43" height="20" as="geometry" />
+          <mxGeometry x="50" y="-100" width="233.43" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
